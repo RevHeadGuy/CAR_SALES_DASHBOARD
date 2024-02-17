@@ -1,5 +1,7 @@
 # CAR_SALES_DASHBOARD
 
+TOOLS USED : TABLEAU , MYSQL , MS EXCEL
+
 1.Connecting to Database
 
 2.KPI's Development
