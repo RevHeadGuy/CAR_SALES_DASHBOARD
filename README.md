@@ -1,6 +1,6 @@
 # CAR_SALES_DASHBOARD
 
-Tools Used : TABLEAU , MySQl , MS EXCEL.
+Tools Used : TABLEAU , MySQl , MS EXCEL
 
 1.Connecting to Database
 
