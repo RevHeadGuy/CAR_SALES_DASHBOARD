@@ -4,7 +4,7 @@ TOOLS USED : TABLEAU , MYSQL , MS EXCEL
 
 1.Connecting to Database
 
-2.KPI's Development
+2.KPI's (Key Performance Indicator) Development
 
 3.Background Design
 
