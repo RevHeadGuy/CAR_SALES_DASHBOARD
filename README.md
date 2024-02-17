@@ -10,7 +10,7 @@
 
 5.YTD Weekly Trend
 
-6. YTD Sales by Body Style
+6.YTD Sales by Body Style
  
 7.YTD Sales by Color
 
